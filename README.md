@@ -18,4 +18,5 @@
 - Bagian C dikerjakan di folder `db/`, `docs/`, `src/`, dan `tests/`.
 - Kerjakan di branch sesuai konvensi, buat commit kecil dengan pesan berformat.
 - `npm test` harus hijau sebelum commit terakhir.
-- **Push sebelum 15.00.** Yang dinilai adalah push terakhir sebelum 15.00.
+- Durasi 120 menit. **Batas waktu diumumkan dosen saat ujian dimulai**
+  (jam 15.00 di lembar soal tidak berlaku). Yang dinilai adalah push terakhir sebelum batas itu.
